@@ -1,6 +1,6 @@
 # Spring Security Social Login
 
-Instruções 
+Vídeo: https://youtu.be/Uc8mPuaNGqM
 
 ## Github login
 
